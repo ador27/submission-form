@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    color: brown;
+}
+
+.name{
+    margin-left: 10px;
+    color: cornflowerblue;
+    margin-bottom: 10px;
+}
+
+.submit{
+    border: cornflowerblue;
+    margin: 10px 15px;
+    color: darkblue;
+}
